@@ -87,7 +87,7 @@ Main = (function() {
                 symbol: markerSymbol,                            
                 popupTemplate: {                                
                     title: value.city + ", " + value.state,
-                    content: "Coordinates: " + value.coord[0] + ", " + value.coord[1]
+                    content: "Coordinates: " + value.coord[1] + ", " + value.coord[0]
                 }                  
             });
                           
