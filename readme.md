@@ -4,6 +4,8 @@
 
 A website shows the map of the places I visited.
 
+https://marisido33.github.io/GIST5300_WK6_MariaS/
+
 ## Interactive features
 If you click on the pin, the map will zoom the the spot. It will also zoom in to any random
 spot if you click on it. After clicking on the pin you will see the pop-up window with 
