@@ -1,8 +1,8 @@
 # GIST5300 Week 6 Assignment
-## Interactive map of places I visited
+## Interactive map of the places I visited
 ### Maria Sidorenko
 
-A website shows the map of places I visited.
+A website shows the map of the places I visited.
 
 ## Interactive features
 If you click on the pin, the map will zoom the the spot. It will also zoom in to any random
